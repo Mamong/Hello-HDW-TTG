@@ -38,6 +38,7 @@
 // @namespace     http://marcogreasemonkey.org/download/
 // @author        Marco Meng
 // @version       0.3 beta
+// @license        GPL version 3
 // @description   auto-sign for HDW and TTG
 // @grant         GM_xmlhttpRequest
 // @require       http://code.jquery.com/jquery-1.4.2.js 
