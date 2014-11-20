@@ -1,5 +1,5 @@
 // Hello HDW&TTG
-// version 0.1 BETA!
+// version 0.3 BETA!
 // 2014-11-16
 // Copyright (c) 2014, Marco Meng
 // Released under the GPL license
@@ -37,7 +37,7 @@
 // @name          Hello HDW&TTG
 // @namespace     http://marcogreasemonkey.org/download/
 // @author        Marco Meng
-// @version       0.1 beta
+// @version       0.3 beta
 // @description   auto-sign for HDW and TTG
 // @grant         GM_xmlhttpRequest
 // @require       http://code.jquery.com/jquery-1.4.2.js 
